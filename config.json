@@ -1,0 +1,14 @@
+{
+    "llm": {
+        "provider": "openrouter",
+        "model": "google/gemini-pro-1.5",
+        "api_key_env_var": "OPENROUTER_API_KEY",
+        "base_url": "https://openrouter.ai/api/v1"
+    },
+    "tools": {
+        "enabled": ["git", "code", "web_search", "file"]
+    },
+    "memory": {
+        "file_path": "memory/agent_memory.json"
+    }
+}
