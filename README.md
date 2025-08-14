@@ -92,6 +92,5 @@ python -m tests.run_tests
 
 ## Контакти
 
-[Ваше ім'я] - [@ваш_twitter](https://twitter.com/ваш_twitter) - ваш_email@example.com
-
-Посилання на проект: [https://github.com/ваш_логін/ai-programmer](https://github.com/ваш_логін/ai-programmer)
+Bogdan Martseniuk] 
+Посилання на проект: [https://github.com/BOHDANMARCEN)ai-programmer]
